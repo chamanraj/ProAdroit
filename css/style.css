@@ -9,6 +9,8 @@ html {
   box-sizing: inherit;
   }
 
+
+
   .box-wrapping {
     max-width: 1370px;
     margin: auto;
@@ -249,3 +251,7 @@ html {
     font-weight: bold;
     margin-bottom: 30px;
   }
+
+.holder-section p {
+    font-family: 'Raleway', sans-serif;
+}
